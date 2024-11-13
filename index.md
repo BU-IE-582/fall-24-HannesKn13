@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-Test: * [Python Example Script](https://bu-ie-582.github.io/fall-24-hannesknieke/hw1/IE582_hw1_v04.ipynb): .ipynb script is in a folder called files.
+Test: * [Python Example Script](https://bu-ie-582.github.io/fall-24-hannesknieke/hw1/IE582_hw1_v04.ipynb): .ipynb script is in a folder called hw1.
+Test: * [HTML file](https://bu-ie-582.github.io/fall-24-hannesknieke/hw1/IE582_hw1_v04.html): .html file is in a folder called hw1.
+
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
