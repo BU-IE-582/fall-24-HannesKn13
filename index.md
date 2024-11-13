@@ -3,39 +3,28 @@
 Test: * [Python Example Script](https://bu-ie-582.github.io/fall-24-hannesknieke/hw1/IE582_hw1_v04.ipynb): .ipynb script is in a folder called hw1.
 Test: * [HTML file](https://bu-ie-582.github.io/fall-24-hannesknieke/hw1/IE582_hw1_v04.html): .html file is in a folder called hw1.
 
+## Homework 1 - Report
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+# 3 - Research Questions
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```python
+#import input and output files
+#input
+input_file = 'C:\\Users\\hanne\\Documents\\Erasmus\\IE582\\hw1\\hw1_input.csv'
+input = np.loadtxt(input_file, delimiter=',', skiprows=1)
+input_df = pd.read_csv(input_file)
+#output real
+output_real_file = 'C:\\Users\\hanne\\Documents\\Erasmus\\IE582\\hw1\\hw1_real.csv'
+output_real = np.loadtxt(output_real_file, delimiter=',', skiprows=1)
+#output imaginary
+output_img_file = 'C:\\Users\\hanne\\Documents\\Erasmus\\IE582\\hw1\\hw1_img.csv'
+output_img = np.loadtxt(output_img_file, delimiter=',', skiprows=1)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# 3.1 - Dimensionality Reduction with PCA
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# 3.2 - Regression Modeling for <sub>11sub>
 
-### Support or Contact
+# 3.3 - Model Performance and Interpretability
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
