@@ -1,11 +1,11 @@
 ## Welcome to GitHub Pages
 
-Test: * [Python Example Script](https://bu-ie-582.github.io/fall-24-hannesknieke/hw1/IE582_hw1_v04.ipynb): .ipynb script is in a folder called hw1.
-Test: * [HTML file](https://bu-ie-582.github.io/fall-24-hannesknieke/hw1/IE582_hw1_v04.html): .html file is in a folder called hw1.
-
 ## Homework 1 - Report
 
-The report for Homework 1 can be found here: [Homework 1 Report](https://bu-ie-582.github.io/fall-24-hannesknieke/hw1/IE582_hw1_v04.html)
+The report for Homework 1 can be found here: [Homework 1 Report](https://bu-ie-582.github.io/fall-24-hannesknieke/hw1/IE582_hw1.html)
 
-The Jupyter Notebook including the code for solving the homework is here: [Homework 1 Code Jupyter Notebook](https://bu-ie-582.github.io/fall-24-hannesknieke/hw1/IE582_hw1_v04.ipynb)
+The Jupyter Notebook including the code for solving the homework is here: [Homework 1 Code Jupyter Notebook](https://bu-ie-582.github.io/fall-24-hannesknieke/hw1/IE582_hw1.ipynb)
 
+### Academic Integrity
+
+GenAI was used as an aid in the coding process, the prompts used are summarized here: [GenAI Prompts](https://bu-ie-582.github.io/fall-24-hannesknieke/hw1/GenAI_Prompts_hw1.pdf) 
