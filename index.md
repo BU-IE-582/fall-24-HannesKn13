@@ -10,7 +10,7 @@ The Jupyter Notebook including the code for solving the homework is here:
 
 ## Homework 2 - Report
 
-The report for Homework 2 can be found here: [Homework 1 Report](https://bu-ie-582.github.io/fall-24-hannesknieke/hw2/IE582_hw2.html)
+The report for Homework 2 can be found here: [Homework 2 Report](https://bu-ie-582.github.io/fall-24-hannesknieke/hw2/IE582_hw2.html)
 
 The Jupyter Notebook including the code for solving the homework is here:
 [Download Homework 2 Code Jupyter Notebook](https://bu-ie-582.github.io/fall-24-hannesknieke/hw2/IE582_hw2.ipynb) or 
